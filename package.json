@@ -1,6 +1,6 @@
 {
   "name": "easier-class",
-  "version": "0.0.3",
+  "version": "0.0.31",
   "description": "A small javascript that helps working with DOM classes easier",
   "main": "build/index.js",
   "scripts": {
