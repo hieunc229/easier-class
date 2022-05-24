@@ -1,0 +1,14 @@
+{
+  "name": "easier-class",
+  "version": "0.0.3",
+  "description": "A small javascript that helps working with DOM classes easier",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.9.2"
+  }
+}
